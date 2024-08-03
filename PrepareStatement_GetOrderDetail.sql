@@ -9,5 +9,6 @@ from
 	where CustomerID = ?';
     
 -- Calling Statement --------------------
+
 set @id = 10;
 execute GetOrderDetail using @id;
