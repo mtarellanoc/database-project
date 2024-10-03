@@ -5,10 +5,4 @@ This project is a Capstone Project, part of the Meta Database Engineer Professio
 
 This project uses MYSQL Workbench to design and create a Database Schema. Once this was done, SQL was used to create virtual tables, procedures and prepared statements to help facilitate daily reports for Little Lemon. Additionally, the use of Tableau was used to create a dashboard using sample data. Finally, a database client was created using Jupyter Notebook.
 
----
 
-Below are the images from the dashboards created in Tableau:
-
-![Customers Sales] (https://github.com/mtarellanoc/database-project/blob/main/Tableau_DashBoard/Tableau_Customer_Sales.png)
-
-![Sales and Bubble Chart] (https://github.com/mtarellanoc/database-project/blob/main/Tableau_DashBoard/Tableau_DashBoard/Tableau_Dashboard.png)
