@@ -9,6 +9,6 @@ This project uses MYSQL Workbench to design and create a Database Schema. Once t
 
 Below are the images from the dashboards created in Tableau:
 
-![Customers Sales] (Tableau_DashBoard/Tableau_Customer_Sales.png)
+![Customers Sales] (/Tableau_DashBoard/Tableau_Customer_Sales.png)
 
-![Sales and Bubble Chart] (Tableau_DashBoard/Tableau_Dashboard.png)
+![Sales and Bubble Chart] (/Tableau_DashBoard/Tableau_Dashboard.png)
